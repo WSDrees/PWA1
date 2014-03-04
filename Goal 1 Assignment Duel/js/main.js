@@ -1,8 +1,4 @@
-/*
-    Name:           Steve Drees
-    Date:           2/4/2014
-    Assignment:     The Duel - Part I
-*/
+
 
 (function(){
 
